@@ -1,0 +1,18 @@
+{
+  "name": "testunitario",
+  "version": "1.0.0",
+  "description": "SIM!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/QAP2K22/teste-unitario"
+  },
+  "author": "QAP2K22",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
